@@ -1,4 +1,3 @@
-
 # Logiciel de Gestion de Club de Judo
 
 ## Table des Matières
@@ -15,33 +14,27 @@
 - [Perspectives](#perspectives)
 - [Remerciements](#remerciements)
 
----
 
 ## À propos du projet
 
 Le Logiciel de Gestion de Club de Judo est une application de bureau conçue pour simplifier la gestion d'un club de judo. 
-Elle permet aux administrateurs de gérer efficacement les membres, de suivre les paiements et de maintenir des enregistrements détaillés. 
-Développé en C#, ce projet offre une interface conviviale et des fonctionnalités robustes pour l'administration du club.
+Développé en C#, ce projet offre une interface conviviale et des fonctionnalités robustes, qui permettent aux administrateurs de gérer efficacement les membres, de suivre les paiements et de maintenir des enregistrements détaillés. 
 
----
 
 ## Fonctionnalités
 
+- Interface graphique intuitive et facile à utiliser
 - Enregistrement des rôles d'utilisateur (administrateur)
 - Inscription et gestion des membres
 - Gestion et suivi des paiements
-- Interface graphique intuitive et facile à utiliser
 
----
 
 ## Technologies Utilisées
 
 - **Langage :** C#
 - **Framework :** .NET Framework
-- **Base de données :** Base de données locale (SQL Server)
+- **Base de données :** Base de données (SQL Server)
 - **Environnement de développement :** Visual Studio
-
----
 
 ## Prise en Main
 
@@ -66,7 +59,7 @@ Développé en C#, ce projet offre une interface conviviale et des fonctionnalit
 1. Configurer la chaîne de connexion à la base de données dans le fichier de configuration.
 2. S'assurer que la base de données est initialisée et accessible.
 
----
+
 
 ## Utilisation
 
@@ -74,7 +67,7 @@ Développé en C#, ce projet offre une interface conviviale et des fonctionnalit
 2. Vérifier les fonctionnalités de l'application.
 3. Enregistrer des utilisateurs, gérer les membres et suivre les paiements.
 
----
+
 
 ## Captures d'écran
 
@@ -88,27 +81,12 @@ Développé en C#, ce projet offre une interface conviviale et des fonctionnalit
 ![lgdcj_6](https://github.com/user-attachments/assets/1b0bdaa6-bd85-4609-ba8e-4a948f27e4b9)
 
 
----
-
-## Contribution
-
-Pour le moment, ce projet n'est pas ouvert aux contributions.
-
----
-
 ## Perspectives
 
 Ce projet a pour ambition d'évoluer vers une solution complète de gestion de club de judo avec des fonctionnalités supplémentaires, telles que:
-- Gestion des événements et compétitions
-- Notifications automatisées (email/SMS) pour les rappels de paiement et les annonces de club
+- Gestion des événements et compétitions locales
+- Notifications automatisées (email ou SMS) pour les rappels de paiement et les annonces de club
 - Intégration d'un module de comptabilité avancé
-- Hébergement en cloud pour un accès multi-utilisateur sécurisé
+- Hébergement, puis en cloud pour un accès multi-utilisateur sécurisé
 
 L'objectif à long terme est de fournir un outil flexible et évolutif pour répondre aux besoins des clubs de judo de toutes tailles.
-
----
-
-## Remerciements
-
-- https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
-
